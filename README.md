@@ -1,2 +1,2 @@
 # C++
-Programs Developed in C/C++ Language.
+Repository for C++ codes and algos. Stars the repo too. 
